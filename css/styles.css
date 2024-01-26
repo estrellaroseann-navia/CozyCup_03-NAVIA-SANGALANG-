@@ -5,21 +5,33 @@ body, h1, h2, h3, p, ul, li {
 }
 
 body {
-    font-family: cursive, handwriting;
-    background-color: #fde353;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #b59c0f;
     color: #381a09;
 }
 
 header {
     background-color: #47341c;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: 20px;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+header ul{
+    margin-right: 10rem;
+    font-size: 30px;
+    text-decoration-color: #fde353;
 }
 
 nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 10px 20px;
 }
 
 .logo img {
@@ -27,7 +39,7 @@ nav {
 }
 
 .Logo1 img {
-    max-width: 250px;
+    max-width: 400px;
 }
 
 nav ul {
@@ -38,21 +50,25 @@ nav ul {
 
 nav a {
     text-decoration: none;
-    color: #4c3c32;
+    color: #b59c0f;
     font-weight: bold;
     transition: color 0.3s;
 }
 
 nav a:hover {
-    color: #7e685b;
+    color: #bb5011;
 }
 
 .hero {
     text-align: center;
-    padding: 150px 0;
+    padding: 5px 0;
     background-image: url('hero-bg.jpg');
     background-size: cover;
     color: white;
+}
+
+.hero img {
+    margin-top: 10rem;
 }
 
 .hero h1 {
@@ -84,8 +100,47 @@ nav a:hover {
 }
 
 .menu h2 {
+    margin-top: 5rem;
     font-size: 30px;
     margin-bottom: 20px;
+}
+
+.menu h3 {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    margin: 1rem;
+}
+
+.menu-item {
+    border: 1px solid #ddd;
+    padding: 20px;
+
+}
+
+#price {
+    margin-top: 2rem;
+}
+
+.menu-item img {
+    width: 300px; 
+    height: 200px; 
+    object-fit: cover; 
+    border-radius: 8px;
+}
+
+.menu-item h3 {
+    margin: 10px 0;
+}
+
+.menu-item p {
+    color: #ffffff;
 }
 
 .about {
@@ -94,7 +149,11 @@ nav a:hover {
     background-color: #ede4d6;
 }
 
+.about p {
+    text-align: justify;
+}
 .about h2 {
+    margin-top: 5rem;
     font-size: 30px;
     margin-bottom: 20px;
 }
@@ -105,26 +164,129 @@ nav a:hover {
     margin: 0 auto;
 }
 
+.about-team {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    justify-content: center;
+}
+
+.team-member {
+    text-align: center;
+    max-width: 300px; 
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc; 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /
+}
+
+.team-member img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; 
+    object-fit: cover; 
+    margin-bottom: 10px;
+}
+
+.team-member p{
+    font-size: 15px;
+    max-width: 800px;
+    margin: 1.5rem;
+    font-style: italic;
+    text-align: justify;
+}
+
 .contact {
     padding: 100px 0;
     text-align: center;
-    background-color: #4c3c32;
+    background-color: #836552;
     color: white;
 }
 
 .contact h2 {
+    margin-top: 5rem;
     font-size: 30px;
     margin-bottom: 20px;
 }
 
 .contact p {
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 40px;
+}
+
+.contact h3 {
+    display: grid;
+}
+
+.contact-icon h3 {
+    margin-bottom: 10px;
+}
+
+.contact-more p {
+    font-size: 16px;
+    margin-top: 0%;
+}
+
+.contact-more h2 {
+    margin-top: 1rem;
+}
+
+.contact-icon {
+    margin-right: 10px;
+}
+
+.contact-icon img {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+}
+
+.newsletter {
+    margin-top: 2rem;
+}
+
+#contactForm {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #b59c0f;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#contactForm label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+#contactForm input,
+#contactForm textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#contactForm button {
+    background-color: #4c3c32;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#contactForm button:hover {
+    background-color: #bf642b;
 }
 
 footer {
     font-family: Arial, sans-serif;
-    background-color: #4c3c32;
+    background-color: #47341c;
     color: white;
     text-align: center;
     padding: 20px 0;

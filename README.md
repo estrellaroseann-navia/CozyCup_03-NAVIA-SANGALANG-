@@ -48,13 +48,13 @@ Discover the heart behind **TSUEE FHOP** in our About Us section. Dive into our 
 
 # About the Authors
 
-<img src="img/owner.jpg" alt="Owner Image" width="150" height="150" style="border-radius:50%"> 
+<img src="img/.jpg" alt="Owner Image" width="150" height="150" style="border-radius:50%"> 
 
 **NAME:** *Estrella Rose Ann Navia*
 
 **Email:** 202180026@psu.palawan.edu.ph
 
-<img src="img/co-owner.webp" alt="Owner Image" width="150" height="150" style="border-radius:50%"> 
+<img src="img/co-owner.jpg" alt="Owner Image" width="150" height="150" style="border-radius:50%"> 
 
 **NAME:** *John Dexter Sangalang*
 

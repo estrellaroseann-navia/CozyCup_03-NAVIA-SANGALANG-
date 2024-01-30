@@ -16,3 +16,31 @@
 
 * **Customer Reviews and Ratings:** TSUEE FHOP's website incorporates a section for customer reviews and ratings. This valuable feedback helps potential customers make informed choices and fosters a sense of community around the coffee and huug experience offered by the shop.
 
+# Screen Captures
+### Home Page
+![Home Page Section](img/homepage.png)
+
+***Welcome to TSUEE FHOP's homepage***, where warmth and flavor collide. Immerse yourself in the inviting ambiance through captivating images. Easily navigate our intuitive layout, explore our featured specials, and embrace the convenience of online ordering.
+
+*Your journey into the world of coffee and huugs begins here.*
+
+### Menu
+![Home Page Section](img/menu.png)
+
+Explore **TSUEE FHOP's** enticing menu section on our website image. From aromatic coffees to heartwarming hugs, each item is beautifully showcased with vivid visuals and detailed descriptions.
+
+*Dive into a world of flavor and comfort at your fingertips*
+
+### About Us
+![Home Page Section](img/about.png)
+
+Discover the heart behind **TSUEE FHOP** in our About Us section. Dive into our story, rooted in a passion for crafting exceptional coffee experiences and fostering a community of warmth. Learn about our commitment to quality, sustainability, and the unique blend of flavors and hugs that define our cafe.
+
+*Welcome to the essence of TSUEE FHOP.*
+
+### Contact Us
+![Home Page Section](img/contact.png)
+
+**Connect with TSUEE FHOP** through our Contact Us section. Whether you have questions, feedback, or just want to say hello, we're here. Find our contact details, including email and phone, and feel free to reach out.
+
+*We value your communication and look forward to hearing from you.*

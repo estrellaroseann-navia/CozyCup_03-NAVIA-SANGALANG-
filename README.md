@@ -56,6 +56,7 @@ NAME: Estrella Rose Ann Navia
 
 Email: 202180026@psu.palawan.edu.ph
 ``````
+**Account links:**
 
 <a href="https://www.facebook.com/estrellaroseann.navia?mibextid=ZbWKwL">
 <img border="0" alt="W3Schools" src="img/facebook.png" width="30" height="30"> <a href="https://github.com/estrellaroseann-navia">
@@ -71,6 +72,8 @@ NAME: John Dexter Sangalang
 
 Email: 202180264@psu.palawan.edu.ph
 ``````
+**Account links:**
+
 <a href="https://www.facebook.com/Dexter.DJ.0516?mibextid=ZbWKwL">
 <img border="0" alt="W3Schools" src="img/facebook.png" width="30" height="30"> <a href="https://github.com/Dexy11">
 <img border="0" alt="W3Schools" src="img/github.png" width="30" height="30">

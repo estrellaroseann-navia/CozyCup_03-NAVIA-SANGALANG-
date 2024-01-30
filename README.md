@@ -44,3 +44,18 @@ Discover the heart behind **TSUEE FHOP** in our About Us section. Dive into our 
 **Connect with TSUEE FHOP** through our Contact Us section. Whether you have questions, feedback, or just want to say hello, we're here. Find our contact details, including email and phone, and feel free to reach out.
 
 *We value your communication and look forward to hearing from you.*
+
+
+# About the Authors
+
+<img src="img/owner.jpg" alt="Owner Image" width="150" height="150" style="border-radius:50%"> 
+
+**NAME:** *Estrella Rose Ann Navia*
+
+**Email:** 202180026@psu.palawan.edu.ph
+
+<img src="img/co-owner.webp" alt="Owner Image" width="150" height="150" style="border-radius:50%"> 
+
+**NAME:** *John Dexter Sangalang*
+
+**Email:** 202180264@psu.palawan.edu.ph

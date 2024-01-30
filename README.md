@@ -48,14 +48,29 @@ Discover the heart behind **TSUEE FHOP** in our About Us section. Dive into our 
 
 # About the Authors
 
-<img src="img/.jpg" alt="Owner Image" width="150" height="150" style="border-radius:50%"> 
+<img src="img/owner.jpg" alt="Owner Image" width="150" height="150" style="border-radius:50%">
 
-**NAME:** *Estrella Rose Ann Navia*
+## Owner
+``````
+NAME: Estrella Rose Ann Navia
 
-**Email:** 202180026@psu.palawan.edu.ph
+Email: 202180026@psu.palawan.edu.ph
+``````
 
-<img src="img/co-owner.jpg" alt="Owner Image" width="150" height="150" style="border-radius:50%"> 
+<a href="https://www.facebook.com/estrellaroseann.navia?mibextid=ZbWKwL">
+<img border="0" alt="W3Schools" src="img/facebook.png" width="30" height="30"> <a href="https://github.com/estrellaroseann-navia">
+<img border="0" alt="W3Schools" src="img/github.png" width="30" height="30">
 
-**NAME:** *John Dexter Sangalang*
+##
+<img src="img/co-owner.jpg" alt="Co-Owner Image" width="150" height="150" style="border-radius:50%"> 
 
-**Email:** 202180264@psu.palawan.edu.ph
+## Co-owner
+
+``````
+NAME: John Dexter Sangalang
+
+Email: 202180264@psu.palawan.edu.ph
+``````
+<a href="https://www.facebook.com/Dexter.DJ.0516?mibextid=ZbWKwL">
+<img border="0" alt="W3Schools" src="img/facebook.png" width="30" height="30"> <a href="https://github.com/Dexy11">
+<img border="0" alt="W3Schools" src="img/github.png" width="30" height="30">
